@@ -1,0 +1,4 @@
+NT_IDENTITY = "OrangePiSysInfo"
+NT_TABLE = "coprocessor"
+TEAM_NUMBER = 4068
+SERVER_NAME = "192.168.1.50"
